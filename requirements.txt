@@ -1,0 +1,13 @@
+numpy==1.26.4
+babel==2.11.0
+pandas==2.2.2
+matplotlib==3.8.4
+seaborn==0.13.2
+streamlit==1.32.0
+urllib3==2.2.2
+pytz==2024.1
+dateutil==2.9.0.post0
+setuptools==69.5.1
+pip ==24.0
+Cython==None
+pytest==7.4.4
