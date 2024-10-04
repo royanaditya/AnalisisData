@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 ## Run steamlit app
 ```
-streamlit run dashboard.py
+streamlit run main.py
 ```
 Atau bisa dengan kunjungi website ini [Project Data Analytics](https://royanaditya.streamlit.app/)
 ## Kontribusi
