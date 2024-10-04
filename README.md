@@ -12,6 +12,21 @@ Proyek ini bertujuan untuk menganalisis data pada E-Commerce Public Dataset. Tuj
 - **/dashboard**: Direktori ini berisi main.py yang digunakan untuk membuat dashboard hasil analisis data.
 - **Proyek_Dicoding.ipynb**: File ini yang digunakan untuk melakukan analisis data.
 
+## Instalasi
+
+1. Clone repository ini ke komputer lokal Anda menggunakan perintah berikut:
+
+   ```shell
+   git clone https://github.com/royanaditya/AnalisiData.git
+   ```
+
+2. Pastikan Anda memiliki lingkungan Python yang sesuai dan pustaka-pustaka yang diperlukan. Anda dapat menginstal pustaka-pustaka tersebut dengan menjalankan perintah berikut:
+
+   ```shell
+   pip install streamlit
+   pip install -r dashboard/requirements.txt
+   ```
+
 ## Setup Environment - Anaconda
 ```
 conda create --name main-ds python=3.9
