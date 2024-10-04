@@ -48,6 +48,9 @@ pip install -r requirements.txt
 streamlit run main.py
 ```
 Atau bisa dengan kunjungi website ini [Project Data Analytics](https://royanaditya.streamlit.app/)
+
+## Contoh Run
+![E-Commerce Data Dashboard](dashboard.gif)
 ## Kontribusi
 
 Anda dapat berkontribusi pada proyek ini dengan melakukan pull request. Pastikan untuk menjelaskan perubahan yang Anda usulkan secara jelas dan menyeluruh.
