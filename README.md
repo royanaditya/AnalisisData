@@ -24,7 +24,7 @@ Proyek ini bertujuan untuk menganalisis data pada E-Commerce Public Dataset. Tuj
 
    ```shell
    pip install streamlit
-   pip install -r dashboard/requirements.txt
+   pip install -r requirements.txt
    ```
 
 ## Setup Environment - Anaconda
